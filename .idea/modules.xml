@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SOLID_Principles/interface_segregation/bad/bad.iml" filepath="$PROJECT_DIR$/SOLID_Principles/interface_segregation/bad/bad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID_Principles/liskov_substitution/bad/bad2.iml" filepath="$PROJECT_DIR$/SOLID_Principles/liskov_substitution/bad/bad2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID_Principles/single_responsibility/bad/bad3.iml" filepath="$PROJECT_DIR$/SOLID_Principles/single_responsibility/bad/bad3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID_Principles/open_closed/bad/bad4.iml" filepath="$PROJECT_DIR$/SOLID_Principles/open_closed/bad/bad4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID_Principles/dependency_inversion/bad/bad5.iml" filepath="$PROJECT_DIR$/SOLID_Principles/dependency_inversion/bad/bad5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/git-learning-lab_V4.iml" filepath="$PROJECT_DIR$/.idea/git-learning-lab_V4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID_Principles/single_responsibility/good/good.iml" filepath="$PROJECT_DIR$/SOLID_Principles/single_responsibility/good/good.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID_Principles/liskov_substitution/good/good2.iml" filepath="$PROJECT_DIR$/SOLID_Principles/liskov_substitution/good/good2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID_Principles/open_closed/good/good3.iml" filepath="$PROJECT_DIR$/SOLID_Principles/open_closed/good/good3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID_Principles/dependency_inversion/good/good4.iml" filepath="$PROJECT_DIR$/SOLID_Principles/dependency_inversion/good/good4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID_Principles/interface_segregation/good/good5.iml" filepath="$PROJECT_DIR$/SOLID_Principles/interface_segregation/good/good5.iml" />
+    </modules>
+  </component>
+</project>
