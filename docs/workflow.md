@@ -91,3 +91,11 @@ develop ───────●────────────●
 👉 All feature branches start from develop
 👉 Work happens separately
 👉 Then merged back into develop
+```
+## Rotate roles:
+```
+Round	Person A	     Person B       	Person C	     Person D
+1	   Create conflict	 Resolve	        Review PR	     Break repo
+2	   Resolve	         Break repo     	Create conflict	 Review
+3	   Review	         Create conflict	Resolve          Break
+
